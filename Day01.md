@@ -1,3 +1,3 @@
 # Today I Learned 
 
-## 1. what are git and github?
+## 1. what's git and github?
